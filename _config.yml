@@ -1,0 +1,28 @@
+name: "Guni's Test Site"
+favicon: null
+layout_spectrum: 0.7275121086277068
+typography_spectrum: 0.8122796504758298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8329806514084339
+  lightness: 0.2205873467028141
+  saturation: 0.9098727600648999
+  rhythmicContrast: 0.04900678992271423
+purpose: []
